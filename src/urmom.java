@@ -4,7 +4,11 @@ public class urmom {
         System.out.println("( o.o ) ");
         System.out.println(" > ^ < ");
         System.out.println("    ");
-        System.out.println(" ");
+        System.out.println(" ,-, ");
+        System.out.println("/.(");
+        System.out.println("\\ { ");
+        System.out.println(" ` ` ");
+        System.out.println("   `");
 
 
     }
